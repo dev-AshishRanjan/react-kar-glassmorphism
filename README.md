@@ -91,7 +91,7 @@ The most commonly used props are:
 
 ## usecases
 
-you can also pass childrens insode props.
+you can also pass childrens inside props.
 
 App.js
 ```jsx app.js
