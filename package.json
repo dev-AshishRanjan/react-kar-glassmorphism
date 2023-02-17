@@ -1,0 +1,28 @@
+{
+  "name": "react-kar-glassmorphism",
+  "version": "1.0.0",
+  "description": "React-Glassmorphism",
+  "main": "glass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dev-AshishRanjan/react-kar-glassmorphism.git"
+  },
+  "keywords": [
+    "React",
+    "Glassmorphism",
+    "kar",
+    "Ashish"
+  ],
+  "author": "Kumar Ashish Ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dev-AshishRanjan/react-kar-glassmorphism/issues"
+  },
+  "homepage": "https://github.com/dev-AshishRanjan/react-kar-glassmorphism#readme",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
