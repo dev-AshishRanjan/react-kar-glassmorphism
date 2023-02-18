@@ -1,5 +1,9 @@
 # React kar Glassmorphism
 
+>- We are facing some problem related to babel.
+>- so this package is currently not compatible with CRA.
+>- You can use this package on [codesandbox](https://codesandbox.io/s/beautiful-wing-kf8o5i?file=/src/App.js)
+
 We provide 3 React components :
 - Gdiv - A modified HTML div Element
 - Ginput - A modified HTML input Element
@@ -7,7 +11,7 @@ We provide 3 React components :
 
 ## start using this package by running 
 ```shell
-  npm i react-kar-glassmorphism
+npm i react-kar-glassmorphism
 ```
 
 ## Gdiv
@@ -31,7 +35,7 @@ The most commonly used props are:
 - padding
 
 >The list of all props that can be passed to this react component are :
->- minWidth, minHeight, zIndex, border, background, borderRadius, backdropFilter, fontFamily, boxShadow, padding
+>- minWidth, minHeight, width, height, zIndex, border, background, borderRadius, backdropFilter, fontFamily, boxShadow, padding
 >- You can use any css property as props aslong they are in js fromat (camelcase).
 >- For things like hover, focus etc you can use classes and ids. These can be passed as props to this react component.
 
