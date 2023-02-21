@@ -4,6 +4,8 @@
 >- so this package is currently not compatible with CRA.
 >- You can use this package on [codesandbox](https://codesandbox.io/s/beautiful-wing-kf8o5i?file=/src/App.js)
 
+<!-- > Can be used in codesandbox, see [example](https://codesandbox.io/s/beautiful-wing-kf8o5i?file=/src/App.js) -->
+
 We provide 3 React components :
 - Gdiv - A modified HTML div Element
 - Ginput - A modified HTML input Element
