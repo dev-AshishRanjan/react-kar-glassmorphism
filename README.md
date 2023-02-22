@@ -1,5 +1,7 @@
 # React kar Glassmorphism
 
+<!-- [![npm package][npm-badge]][npm] -->
+
 >- We are facing some problem related to babel.
 >- so this package is currently not compatible with CRA.
 >- You can use this package on [codesandbox](https://codesandbox.io/s/beautiful-wing-kf8o5i?file=/src/App.js)
